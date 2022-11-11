@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Rectangulo from './pure/rectangulo';
+import Rectangulo from './components/pure/rectangulo';
 
 function App() {
   return (
